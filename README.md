@@ -24,7 +24,9 @@ This project focuses on analyzing diabetic patient data to identify key factors 
 2. SQL-Based Business Analysis: Loaded the processed data into MySQL and conducted structured analysis using SQL to answer key business questions, including readmission overview, patient risk drivers, clinical complexity, operational factors, and high-risk patient segmentation.
 3. Dashboard & Visualization: Developed an interactive Power BI dashboard (3 report pages) to visualize key insights, highlight high-risk groups, and support data-driven decision-making.
 
-# Project Architecture
+# Project Architecture:
+
+This project follows an end-to-end data analytics pipeline starting from raw Excel data, processed using Python (Jupyter Notebook), stored and analyzed using MySQL, and visualized using Power BI to generate actionable business insights.
 
 <img width="897" height="473" alt="Screenshot 2026-04-18 145114" src="https://github.com/user-attachments/assets/463ba235-9673-4628-9526-fc0d49eb4a37" />
 
